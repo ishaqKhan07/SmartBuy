@@ -1,6 +1,8 @@
 <?php
 
 use App\Http\Controllers\admin\AdminController;
+use App\Http\Controllers\front\FrontController;
+use App\Http\Controllers\seller\SellerController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -17,14 +19,29 @@ use Illuminate\Support\Facades\Route;
 Auth::routes();
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('front.index');
 });
 
-Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+//Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 
 Route::prefix('admin')->middleware('auth')->group(function () {
     Route::get('dashboard',[AdminController::class, 'index']);
 });
+
+Route::prefix('seller')->middleware('auth')->group(function () {
+    Route::get('dashboard',[SellerController::class, 'index']);
+});
+
+Route::prefix('user')->middleware('auth')->group(function () {
+//    Route::get('home',[FrontController::class, 'index']);
+});
+
+
+
+
+
+
+
 
 Route::get('logout',function (){
    auth()->logout();

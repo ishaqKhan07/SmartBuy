@@ -36,10 +36,10 @@ class LoginController extends Controller
                 return 'admin/dashboard';
                 break;
             case '2':
-                return '/';
+                return 'seller/dashboard';
                 break;
             case '3':
-                return '/a';
+                return 'front/home';
                 break;
         }
     }
