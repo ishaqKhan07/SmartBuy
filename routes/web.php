@@ -26,6 +26,7 @@ Route::get('/', function () {
 
 Route::prefix('admin')->middleware('auth')->group(function () {
     Route::get('dashboard',[AdminController::class, 'index']);
+    Route::get('sellers',[\App\Http\Controllers\admin\SellerController::class, 'index'])->name('admin.sellers');
 });
 
 Route::prefix('seller')->middleware('auth')->group(function () {

@@ -25,16 +25,13 @@
         <ul class="list-unstyled components">
             <p>Dummy Heading</p>
             <li class="active">
-                <a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Home</a>
+                <a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Users</a>
                 <ul class="collapse list-unstyled" id="homeSubmenu">
                     <li>
-                        <a href="#">Home 1</a>
+                        <a href="{{route('admin.sellers')}}">Sellers</a>
                     </li>
                     <li>
-                        <a href="#">Home 2</a>
-                    </li>
-                    <li>
-                        <a href="#">Home 3</a>
+                        <a href="#">Customers</a>
                     </li>
                 </ul>
             </li>
