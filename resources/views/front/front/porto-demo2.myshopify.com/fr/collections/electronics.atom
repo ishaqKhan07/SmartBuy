@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://porto-demo2.myshopify.com/fr/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://porto-demo2.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://porto-demo2.myshopify.com/fr/collections/electronics.atom"/>
+  <title>Porto - Homepage 2</title>
+  <updated>2020-08-19T23:57:46-11:00</updated>
+  <author>
+    <name>Porto - Homepage 2</name>
+  </author>
+  <entry>
+    <id>https://porto-demo2.myshopify.com/fr/products/4622621311036</id>
+    <published>2020-08-19T23:57:46-11:00</published>
+    <updated>2020-08-19T23:57:46-11:00</updated>
+    <link rel="alternate" type="text/html" href="https://porto-demo2.myshopify.com/fr/products/high-hill-casual"/>
+    <title>High Hill Casual</title>
+    <s:type></s:type>
+    <s:vendor>Porto - Homepage 2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1612/9747/products/HighHillCasual.jpg?v=1597921067"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Distributeur : </strong>Porto - Homepage 2<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat.</p>
+<ul class="unordered-list">
+<li>Any Product types that You want - Simple, Configurable</li>
+<li>Downloadable/Digital Products, Virtual Products</li>
+<li>Inventory Management with Backordered items</li>
+</ul>
+<p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <br>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Below $100.00</s:tag>
+    <s:tag>BEST SELLING PRODUCTS</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>ELECTRONICS</s:tag>
+    <s:tag>Extra Large</s:tag>
+    <s:tag>FEATURED PRODUCTS</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>SHOP</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>TROUSERS</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://porto-demo2.myshopify.com/fr/products/4622621311036</id>
+      <title>Default Title</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://porto-demo2.myshopify.com/fr/products/4622619869244</id>
+    <published>2020-08-19T23:52:46-11:00</published>
+    <updated>2020-08-19T23:52:46-11:00</updated>
+    <link rel="alternate" type="text/html" href="https://porto-demo2.myshopify.com/fr/products/brown-long-shoes"/>
+    <title>Brown Long Shoes</title>
+    <s:type></s:type>
+    <s:vendor>Porto - Homepage 2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1612/9747/products/BrownLongShoes.jpg?v=1597920767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Distributeur : </strong>Porto - Homepage 2<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            259.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat.</p>
+<ul class="unordered-list">
+<li>Any Product types that You want - Simple, Configurable</li>
+<li>Downloadable/Digital Products, Virtual Products</li>
+<li>Inventory Management with Backordered items</li>
+</ul>
+<p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <br>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ELECTRONICS</s:tag>
+    <s:tag>FEATURED PRODUCTS</s:tag>
+    <s:tag>HEADPHONE</s:tag>
+    <s:tag>LATEST PRODUCTS</s:tag>
+    <s:tag>SHOP</s:tag>
+    <s:variant>
+      <id>https://porto-demo2.myshopify.com/fr/products/4622619869244</id>
+      <title>Default Title</title>
+      <s:price currency="USD">259.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://porto-demo2.myshopify.com/fr/products/4622618427452</id>
+    <published>2020-08-19T23:46:24-11:00</published>
+    <updated>2020-08-19T23:46:24-11:00</updated>
+    <link rel="alternate" type="text/html" href="https://porto-demo2.myshopify.com/fr/products/blue-high-hill"/>
+    <title>Blue High Hill</title>
+    <s:type></s:type>
+    <s:vendor>Porto - Homepage 2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1612/9747/products/BlueHighHill2.jpg?v=1597920385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Distributeur : </strong>Porto - Homepage 2<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat.</p>
+<ul class="unordered-list">
+<li>Any Product types that You want - Simple, Configurable</li>
+<li>Downloadable/Digital Products, Virtual Products</li>
+<li>Inventory Management with Backordered items</li>
+</ul>
+<p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <br>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Below $100.00</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>ELECTRONICS</s:tag>
+    <s:tag>HEADPHONE</s:tag>
+    <s:tag>Large</s:tag>
+    <s:tag>Medium</s:tag>
+    <s:tag>SHOP</s:tag>
+    <s:tag>Small</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://porto-demo2.myshopify.com/fr/products/4622618427452</id>
+      <title>extra large / Blue</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://porto-demo2.myshopify.com/fr/products/4622618427452</id>
+      <title>extra large / Black</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://porto-demo2.myshopify.com/fr/products/4622618427452</id>
+      <title>extra large / Red</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://porto-demo2.myshopify.com/fr/products/4622618427452</id>
+      <title>extra large / Green</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://porto-demo2.myshopify.com/fr/products/4622618427452</id>
+      <title>medium / Blue</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://porto-demo2.myshopify.com/fr/products/4622618427452</id>
+      <title>medium / Black</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://porto-demo2.myshopify.com/fr/products/4622618427452</id>
+      <title>medium / Red</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://porto-demo2.myshopify.com/fr/products/4622618427452</id>
+      <title>medium / Green</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+</feed>
