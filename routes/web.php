@@ -44,6 +44,7 @@ Route::prefix('user')->middleware('auth')->group(function () {
 
 
 
+
 Route::get('logout',function (){
    auth()->logout();
 });
